@@ -1,6 +1,6 @@
 ## Emilio James Perez (Dumakulem)
 
-BS Computer Science student, Gordon College — Olongapo City, Philippines.
+BS Computer Science student
 
 Outside of coursework I've been working through web dev, Java, automation, and AI integration — mostly by taking on things I haven't done before and figuring them out under deadline.
 
