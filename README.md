@@ -14,15 +14,13 @@ Outside of coursework I've been working through web dev, Java, automation, and A
 
 **[REVSPECS](https://github.com/Dumakulem/REVSPECS)** — SPECS initiative reviewer platform for exam weeks. PHP.
 
-**ERMS** — Full Spring Boot web app, built from scratch for a dual-subject final project. Had no backend experience going in; learned Spring Data JPA, Thymeleaf, MySQL, and Maven to get it done.
-
 **[Project-Taco](https://github.com/Dumakulem/Project-Taco)** — Capstone project. HTML.
 
 **[Project-Gamin](https://github.com/Dumakulem/Project-Gamin)** — Discord bot. Python.
 
 **[GaminWeb](https://github.com/Dumakulem/GaminWeb)** — Python.
 
-**BobGraph** (in progress, IBM BOB 2.0) — VS Code extension that renders a codebase as a clickable relationship diagram inside the IBM Bob IDE, meant to speed up onboarding to unfamiliar code.
+**[BobGraph](https://github.com/Dumakulem/BobGraph-The-WorkSpace-Visualizer)** (IBM BOB 2.0) — VS Code extension that renders a codebase as a clickable relationship diagram, with AI-generated explanations per node, to speed up onboarding to unfamiliar code. Built and submitted with a team.
 
 **NASA Space Apps Challenge** (November) — Working on one of the 2026 challenge tracks.
 
