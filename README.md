@@ -7,7 +7,9 @@ Outside of coursework I've been working through web dev, Java, automation, and A
 ### Stack
 
 **Languages:** Java, Python, PHP, JavaScript, HTML/CSS, MySQL
+
 **Backend:** Spring Boot, Spring Data JPA, Thymeleaf, Maven
+
 **Design/Media:** Photoshop, Illustrator, Blender 3D, video editing
 
 ### Projects
